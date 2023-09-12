@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#part1",
+    "href": "about.html#part1",
+    "title": "About",
+    "section": "part1",
+    "text": "part1\nI like chocolate."
+  },
+  {
+    "objectID": "about.html#part2",
+    "href": "about.html#part2",
+    "title": "About",
+    "section": "part2",
+    "text": "part2\nI like bubble tea."
+  },
+  {
+    "objectID": "about.html#part3",
+    "href": "about.html#part3",
+    "title": "About",
+    "section": "part3",
+    "text": "part3\nI like coffee.\n\nimport matplotlib.pyplot as plt\n\nx = [1, 2, 3, 4, 5]\ny = [5, 7, 5, 8, 3]\n\na = plt.plot(x, y)\n\nprint(a)\n\n\n\n\n[&lt;matplotlib.lines.Line2D object at 0x7fdb3940ac50&gt;]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "switzerland is a a good place for travel. Below are some recommended places to visit.\n\n\nName\nBrienz\nGrindelwald\nEiger\n\nLocation\nBernese Oberland region\nInterlaken-Oberhasli\nBernese Alps"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "switzerland is a a good place for travel. Below are some recommended places to visit.\n\n\nName\nBrienz\nGrindelwald\nEiger\n\nLocation\nBernese Oberland region\nInterlaken-Oberhasli\nBernese Alps"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "simple_quarto_website",
+    "section": "2 Section 2",
+    "text": "2 Section 2\nBulleted List for Swiss chocolate brands:\n\nToblerone\nLäderach\nLindt\n\n\n\n\nLake Name\nLocation\n\n\n\n\nLake Brienz\nBern\n\n\nLake Lauerz\nSchwyz\n\n\n\nMath Equation1: \\(y = ax + b\\)\n\\[\nE=mc^2\n\\]\n\nthis is a quote"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "simple_quarto_website",
+    "section": "3 Section 3",
+    "text": "3 Section 3\n\n\n\nSwiss image1\n\n\n\n\n\nSwiss image2\n\n\n-\n\n\n\n\nflowchart LR\n  A[food] --&gt; B(sweets)\n  B --&gt; C{what}\n  C --&gt; D[bubble tea]\n  C --&gt; E[cupcake]\n\n\n\n\n\nSchool anxiety is one of the main problems faced by teachers and school counselors. This problem attracts special attention for teachers - practitioners, as it is a clear sign of school maladaptation in children, which adversely affects all spheres of their life: not only the studies but also communication, both inside and outside the school, health and general level of mental development and psychological well-being. (Kostyunina and Drozdikova-Zaripova 2016)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is the footnote.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#brienz",
+    "href": "slides/slides.html#brienz",
+    "title": "Slide",
+    "section": "Brienz",
+    "text": "Brienz\n\nSwiss image1"
+  },
+  {
+    "objectID": "slides/slides.html#grindelwald",
+    "href": "slides/slides.html#grindelwald",
+    "title": "Slide",
+    "section": "Grindelwald",
+    "text": "Grindelwald\n\nSwiss image1"
+  },
+  {
+    "objectID": "slides/slides.html#eiger",
+    "href": "slides/slides.html#eiger",
+    "title": "Slide",
+    "section": "Eiger",
+    "text": "Eiger\nSchool anxiety is one of the main problems faced by teachers and school counselors. This problem attracts special attention for teachers - practitioners, as it is a clear sign of school maladaptation in children, which adversely affects all spheres of their life: not only the studies but also communication, both inside and outside the school, health and general level of mental development and psychological well-being. (Kostyunina and Drozdikova-Zaripova 2016)\n\n\n\n\n\n\n\nKostyunina, Nadezhda Yu, and Albina R Drozdikova-Zaripova. 2016. “Adolescents’ School Anxiety Correction by Means of Mandala Art Therapy.” International Journal of Environmental and Science Education 11 (6): 1105–16."
+  }
+]

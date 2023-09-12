@@ -1,0 +1,84 @@
+---
+title: "simple_quarto_website"
+toc: true
+number-sections: true
+bibliography: reference.bib
+---
+
+## Section 1
+switzerland is a a good place for travel. Below are some recommended places to visit.
+
+:::: {.columns}
+
+::: {.column width="40%"}
+Name
+
+Brienz
+
+Grindelwald
+
+Eiger
+
+
+:::
+
+::: {.column width="60%"}
+Location
+
+Bernese Oberland region
+
+Interlaken-Oberhasli
+
+Bernese Alps
+
+
+:::
+
+::::
+
+
+## Section 2
+
+Bulleted List for Swiss chocolate brands:
+
+- Toblerone
+- Läderach
+- Lindt
+
+
+| Lake Name | Location| 
+| -------- | ------- | 
+| Lake Brienz | Bern | 
+| Lake Lauerz | Schwyz |
+
+Math Equation[^1]:
+$y = ax + b$
+
+$$
+E=mc^2
+$$
+
+[^1]: Here is the footnote.
+
+>this is a quote
+
+## Section 3
+
+![Swiss image1](./images/image1.jpeg)
+
+![Swiss image2](./images/image2.jpeg)
+
+
+
+-{{< video https://www.youtube.com/watch?v=ZFZkXXf7QLc >}}
+
+```{mermaid}
+flowchart LR
+  A[food] --> B(sweets)
+  B --> C{what}
+  C --> D[bubble tea]
+  C --> E[cupcake]
+```
+
+School anxiety is one of the main problems faced by teachers and school counselors. This problem attracts special attention for teachers - practitioners, as it is a clear sign of school maladaptation in children, which adversely affects all spheres of their life: not only the studies but also communication, both inside and outside the school, health and general level of mental development and psychological well-being.
+[@kostyunina2016adolescents]
