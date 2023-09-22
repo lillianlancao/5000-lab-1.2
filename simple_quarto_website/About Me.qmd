@@ -1,0 +1,27 @@
+---
+title: "About Me"
+format: html
+---
+
+# Background
+Lan Cao comes from China, and she is now studying at the Data Science & Analytics Program at Georgetown University. Lan received her bachelor's degree from Rutgers University (The State University of New Jersey) in May 2023. During undergraduate studies, Lan majored in Economics and minor in Statistics and Data Science. She worked as a writing tutor at Rutgers Writing Centers for two years and she also served as a writing tutor in the Rutgers EOF program in summer 2022. After graduation from Rutgers, Lan is now working as a part-time writing tutor in a company focusing on education services. Except for tutoring, Lan also has a great passion for cooking, and she is good at making traditional Chinese dishes.
+
+
+::: {layout="[5,10]" layout-valign="center"}
+![Lan Cao](./images/IMG_8229.JPG){width="200"}
+:::
+
+#  Education
+- 2023-2025: Georgetown Univeristy, D.C.
+
+- 2020-2023: Rutgers Univeristy, New Brunswick, NJ
+
+- 2018-2020: Jilin Univeristy, Changchun, China
+
+# Academic Interests
+
+- Data Visualization
+
+- Health Data Analysis
+
+- NLP

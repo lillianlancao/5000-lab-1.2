@@ -1,0 +1,41 @@
+---
+title: "Introduction"
+format: html
+bibliography: project_references.bib
+---
+# Social Media Analysis for Education Trends
+
+Author: Lan Cao
+
+
+# Background
+
+Technology has reshaped different aspects of our life, and one of them is education. Covid-19 made online courses become an indispensable part of our daily study. Online learning platforms like Coursera and Udemy are proving people with tons of opportunities of absorbing knowledge from many industries. Artificial Intelligence has also been applied to helping students improving their reading, writing and speaking. For example, Grammarly makes use of NLP(natural language processing) to help enhance grammar, spelling, coherence and clarity.
+
+As a generation of "Digital Native", technology has been an indispensable part of our life, and it brings us both challenges and benefits. Therefore, we have to consider how to take advantage of this powerful tool. I have been working as a writing tutor for three years, and I noticed that the labor cost of reviewing students' essays is huge. If we can make learning more efficient through the help of technology, why don't we just do that? 
+
+However, information asymmetry might be a barrier between us and advanced technology. We may not have access to the most updated educational trends and the latest technology aligning with these new trends. Therefore, I want to conduct social media analysis for education trends to provide students, parents and educators with most updated information, including the appliction of AI, NLP, etc. 
+
+# Questions Related to This Topic 
+
+1. What kinds of technology can be practically applied to education industry?
+2. How are social media platforms themselves integrated into educational practices and communication?
+3. What are teachers' and students' views on the quality of traditional education and classroom experiences?
+4. What are the challenges and pain points discussed by educators, students, and parents in the social media?
+5. How are education policies, reforms, and government decisions perceived and discussed?
+6. What are the sentiments regarding online courses and e-learning platforms?
+7. What are the most discussed educational topics on social media platforms?
+8. Which subjects or fields of study are trending?
+9. Are there specific technological trends in educational technology (EdTech)?
+10. How are emerging technologies such as AI, virtual reality, and augmented reality discussed in the context of education?
+
+# Summary of Academic Publications Under this Topic
+
+- First Paper[@kastrati_sentiment_2021]
+
+The passage discusses a systematic mapping study conducted in the educational domain, focusing on sentiment analysis enabled by Natural Language Processing (NLP), machine learning, and deep learning techniques. The objective of this study was to examine students' attitudes, opinions, and behavior towards various aspects of teaching. In this study, the researchers reviewed 92 relevant papers and analyzed them across several dimensions. These dimensions included the specific aspects of education being investigated, the most frequently referenced sources in the literature, research trends and patterns over time, the tools employed for sentiment analysis, and the common techniques used for data representation in sentiment analysis. The study identified several challenges in applying sentiment analysis to students' feedback in education. As a result, the researchers provided recommendations and future directions to address these challenges. The aim is to inspire further research and development in the field of sentiment analysis for a better understanding of students' feedback in an educational context.
+
+- Second Paper[@dogan_use_2023]
+
+The study investigated the use of artificial intelligence (AI) in online distance education through a systematic review. It revealed a growing interest in AI technologies within education and highlighted the need for examining AI from various perspectives. The findings indicated a heavy reliance on AI technologies with potential for algorithmic-driven future scenarios. The study's implications for future research include the need to move beyond purely technical studies and consider pedagogy, curriculum, and instructional design. It also emphasized the importance of regulating the use of human-generated data in AI applications and promoting AI ethics. Developing policies and strategies in educational institutions to ensure human-centered online learning processes was highlighted as a priority.
+

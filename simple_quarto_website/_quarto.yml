@@ -2,13 +2,32 @@ project:
   type: website
 
 website:
-  title: "simple_quarto_website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.ipynb
-      - slides/slides.ipynb
+  title: "Portfolio"
+  sidebar:
+    contents:
+      - href: Introduction.qmd
+        text: Introduction
+      - href: About Me.qmd
+        text: About Me
+      - href: Code.qmd
+        text: Code
+      - href: Data.qmd
+        text: Data
+      - href: Data Gathering.qmd
+        text: Data Gathering
+      - href: Data Exploration.qmd
+        text: Data Exploration
+      - href: Clustering.qmd
+        text: Clustering
+      - href: Dimensionality Reduction.qmd
+        text: Dimensionality Reduction
+      - href: Decision Trees.qmd
+        text: Decision Trees
+      - href: ARM.qmd
+        text: ARM
+      - href: Conclusions.qmd
+        text: Conclusions
+    
 
 format:
   html:
